@@ -1,0 +1,281 @@
+    [
+        {
+            "city": "Beijing",
+            "year": 2020,
+            "Total Water Resources": 25.8,
+            "Surface Water Resources": 8.2,
+            "Ground Water Resources": 22.3,
+            "Overlapped Measurement Between Surface Water and Groundwater": 4.7,
+            "Per Capita Water Resources": 117.8
+        },
+        {
+            "city": "Tianjin",
+            "year": 2020,
+            "Total Water Resources": 13.3,
+            "Surface Water Resources": 8.6,
+            "Ground Water Resources": 5.8,
+            "Overlapped Measurement Between Surface Water and Groundwater": 1.1,
+            "Per Capita Water Resources": 96.0
+        },
+        {
+            "city": "Hebei",
+            "year": 2020,
+            "Total Water Resources": 146.3,
+            "Surface Water Resources": 55.7,
+            "Ground Water Resources": 130.3,
+            "Overlapped Measurement Between Surface Water and Groundwater": 39.7,
+            "Per Capita Water Resources": 196.2
+        },
+        {
+            "city": "Shanxi",
+            "year": 2020,
+            "Total Water Resources": 115.2,
+            "Surface Water Resources": 72.2,
+            "Ground Water Resources": 85.9,
+            "Overlapped Measurement Between Surface Water and Groundwater": 42.9,
+            "Per Capita Water Resources": 329.8
+        },
+        {
+            "city": "Inner Mongolia",
+            "year": 2020,
+            "Total Water Resources": 503.9,
+            "Surface Water Resources": 354.2,
+            "Ground Water Resources": 243.9,
+            "Overlapped Measurement Between Surface Water and Groundwater": 94.2,
+            "Per Capita Water Resources": 2091.7
+        },
+        {
+            "city": "Liaoning",
+            "year": 2020,
+            "Total Water Resources": 397.1,
+            "Surface Water Resources": 357.7,
+            "Ground Water Resources": 115.2,
+            "Overlapped Measurement Between Surface Water and Groundwater": 75.8,
+            "Per Capita Water Resources": 930.8
+        },
+        {
+            "city": "Jilin",
+            "year": 2020,
+            "Total Water Resources": 586.2,
+            "Surface Water Resources": 504.8,
+            "Ground Water Resources": 169.4,
+            "Overlapped Measurement Between Surface Water and Groundwater": 88.0,
+            "Per Capita Water Resources": 2418.8
+        },
+        {
+            "city": "Heilongjiang",
+            "year": 2020,
+            "Total Water Resources": 1419.9,
+            "Surface Water Resources": 1221.5,
+            "Ground Water Resources": 406.5,
+            "Overlapped Measurement Between Surface Water and Groundwater": 208.1,
+            "Per Capita Water Resources": 4419.2
+        },
+        {
+            "city": "Shanghai",
+            "year": 2020,
+            "Total Water Resources": 58.6,
+            "Surface Water Resources": 49.9,
+            "Ground Water Resources": 11.6,
+            "Overlapped Measurement Between Surface Water and Groundwater": 2.9,
+            "Per Capita Water Resources": 235.9
+        },
+        {
+            "city": "Jiangsu",
+            "year": 2020,
+            "Total Water Resources": 543.4,
+            "Surface Water Resources": 486.6,
+            "Ground Water Resources": 137.8,
+            "Overlapped Measurement Between Surface Water and Groundwater": 81.0,
+            "Per Capita Water Resources": 641.3
+        },
+        {
+            "city": "Zhejiang",
+            "year": 2020,
+            "Total Water Resources": 1026.6,
+            "Surface Water Resources": 1008.8,
+            "Ground Water Resources": 224.4,
+            "Overlapped Measurement Between Surface Water and Groundwater": 206.6,
+            "Per Capita Water Resources": 1598.7
+        },
+        {
+            "city": "Anhui",
+            "year": 2020,
+            "Total Water Resources": 1280.4,
+            "Surface Water Resources": 1193.7,
+            "Ground Water Resources": 228.6,
+            "Overlapped Measurement Between Surface Water and Groundwater": 141.9,
+            "Per Capita Water Resources": 2099.5
+        },
+        {
+            "city": "Fujian",
+            "year": 2020,
+            "Total Water Resources": 760.3,
+            "Surface Water Resources": 759.0,
+            "Ground Water Resources": 243.5,
+            "Overlapped Measurement Between Surface Water and Groundwater": 242.2,
+            "Per Capita Water Resources": 1832.5
+        },
+        {
+            "city": "Jiangxi",
+            "year": 2020,
+            "Total Water Resources": 1685.6,
+            "Surface Water Resources": 1666.7,
+            "Ground Water Resources": 386.0,
+            "Overlapped Measurement Between Surface Water and Groundwater": 367.1,
+            "Per Capita Water Resources": 3731.3
+        },
+        {
+            "city": "Shandong",
+            "year": 2020,
+            "Total Water Resources": 375.3,
+            "Surface Water Resources": 259.8,
+            "Ground Water Resources": 201.8,
+            "Overlapped Measurement Between Surface Water and Groundwater": 86.3,
+            "Per Capita Water Resources": 370.3
+        },
+        {
+            "city": "Henan",
+            "year": 2020,
+            "Total Water Resources": 408.6,
+            "Surface Water Resources": 294.8,
+            "Ground Water Resources": 185.8,
+            "Overlapped Measurement Between Surface Water and Groundwater": 72.0,
+            "Per Capita Water Resources": 411.9
+        },
+        {
+            "city": "Hubei",
+            "year": 2020,
+            "Total Water Resources": 1754.7,
+            "Surface Water Resources": 1735.0,
+            "Ground Water Resources": 381.6,
+            "Overlapped Measurement Between Surface Water and Groundwater": 361.9,
+            "Per Capita Water Resources": 3006.7
+        },
+        {
+            "city": "Hunan",
+            "year": 2020,
+            "Total Water Resources": 2118.9,
+            "Surface Water Resources": 2111.2,
+            "Ground Water Resources": 466.1,
+            "Overlapped Measurement Between Surface Water and Groundwater": 458.4,
+            "Per Capita Water Resources": 3189.9
+        },
+        {
+            "city": "Guangdong",
+            "year": 2020,
+            "Total Water Resources": 1626.0,
+            "Surface Water Resources": 1616.3,
+            "Ground Water Resources": 399.1,
+            "Overlapped Measurement Between Surface Water and Groundwater": 389.4,
+            "Per Capita Water Resources": 1294.9
+        },
+        {
+            "city": "Guangxi",
+            "year": 2020,
+            "Total Water Resources": 2114.8,
+            "Surface Water Resources": 2113.7,
+            "Ground Water Resources": 445.4,
+            "Overlapped Measurement Between Surface Water and Groundwater": 444.3,
+            "Per Capita Water Resources": 4229.2
+        },
+        {
+            "city": "Hainan",
+            "year": 2020,
+            "Total Water Resources": 263.6,
+            "Surface Water Resources": 260.6,
+            "Ground Water Resources": 74.6,
+            "Overlapped Measurement Between Surface Water and Groundwater": 71.6,
+            "Per Capita Water Resources": 2626.8
+        },
+        {
+            "city": "Chongqing",
+            "year": 2020,
+            "Total Water Resources": 766.9,
+            "Surface Water Resources": 766.9,
+            "Ground Water Resources": 128.7,
+            "Overlapped Measurement Between Surface Water and Groundwater": 128.7,
+            "Per Capita Water Resources": 2397.7
+        },
+        {
+            "city": "Sichuan",
+            "year": 2020,
+            "Total Water Resources": 3237.3,
+            "Surface Water Resources": 3236.2,
+            "Ground Water Resources": 649.1,
+            "Overlapped Measurement Between Surface Water and Groundwater": 648.0,
+            "Per Capita Water Resources": 3871.9
+        },
+        {
+            "city": "Guizhou",
+            "year": 2020,
+            "Total Water Resources": 1328.6,
+            "Surface Water Resources": 1328.6,
+            "Ground Water Resources": 281.0,
+            "Overlapped Measurement Between Surface Water and Groundwater": 281.0,
+            "Per Capita Water Resources": 3448.2
+        },
+        {
+            "city": "Yunnan",
+            "year": 2020,
+            "Total Water Resources": 1799.2,
+            "Surface Water Resources": 1799.2,
+            "Ground Water Resources": 619.8,
+            "Overlapped Measurement Between Surface Water and Groundwater": 619.8,
+            "Per Capita Water Resources": 3813.5
+        },
+        {
+            "city": "Tibet",
+            "year": 2020,
+            "Total Water Resources": 4597.3,
+            "Surface Water Resources": 4597.3,
+            "Ground Water Resources": 1045.7,
+            "Overlapped Measurement Between Surface Water and Groundwater": 1045.7,
+            "Per Capita Water Resources": 126473.2
+        },
+        {
+            "city": "Shaanxi",
+            "year": 2020,
+            "Total Water Resources": 419.6,
+            "Surface Water Resources": 385.6,
+            "Ground Water Resources": 146.7,
+            "Overlapped Measurement Between Surface Water and Groundwater": 112.7,
+            "Per Capita Water Resources": 1062.4
+        },
+        {
+            "city": "Gansu",
+            "year": 2020,
+            "Total Water Resources": 408.0,
+            "Surface Water Resources": 396.0,
+            "Ground Water Resources": 158.2,
+            "Overlapped Measurement Between Surface Water and Groundwater": 146.2,
+            "Per Capita Water Resources": 1628.7
+        },
+        {
+            "city": "Qinghai",
+            "year": 2020,
+            "Total Water Resources": 1011.9,
+            "Surface Water Resources": 989.5,
+            "Ground Water Resources": 437.3,
+            "Overlapped Measurement Between Surface Water and Groundwater": 414.9,
+            "Per Capita Water Resources": 17107.4
+        },
+        {
+            "city": "Ningxia",
+            "year": 2020,
+            "Total Water Resources": 11.0,
+            "Surface Water Resources": 9.0,
+            "Ground Water Resources": 17.8,
+            "Overlapped Measurement Between Surface Water and Groundwater": 15.8,
+            "Per Capita Water Resources": 153.0
+        },
+        {
+            "city": "Xinjiang",
+            "year": 2020,
+            "Total Water Resources": 801.0,
+            "Surface Water Resources": 759.6,
+            "Ground Water Resources": 503.5,
+            "Overlapped Measurement Between Surface Water and Groundwater": 462.1,
+            "Per Capita Water Resources": 3111.3
+        }
+    ]

@@ -1,0 +1,198 @@
+[
+    {
+        "year": 2011,
+        "Key Lakes & Reservoirs": {
+            "V+": 8,
+            "IV-V": 50,
+            "I-III": 42
+        },
+        "Main River Basins": {
+            "V+": 14,
+            "IV-V": 25,
+            "I-III": 61
+        },
+        "Groundwater & shallow groundwater": {
+            "Very Bad": 15,
+            "Bad": 40,
+            "Satisfactory": 5,
+            "Good": 29,
+            "Excellent": 11
+        }
+    },
+    {
+        "year": 2012,
+        "Key Lakes & Reservoirs": {
+            "V+": 11,
+            "IV-V": 27,
+            "I-III": 61
+        },
+        "Main River Basins": {
+            "V+": 11.3,
+            "IV-V": 27.4,
+            "I-III": 61.3
+        },
+        "Groundwater & shallow groundwater": {
+            "Very Bad": 16.80,
+            "Bad": 40.50,
+            "Satisfactory": 3.60,
+            "Good": 27.30,
+            "Excellent": 11.80
+        }
+    },
+    {
+        "year": 2013,
+        "Key Lakes & Reservoirs": {
+            "V+": 11,
+            "IV-V": 27,
+            "I-III": 61
+        },
+        "Main River Basins": {
+            "V+": 9.0,
+            "IV-V": 19.3,
+            "I-III": 71.7
+        },
+        "Groundwater & shallow groundwater": {
+            "Very Bad": 15.70,
+            "Bad": 43.90,
+            "Satisfactory": 3.10,
+            "Good": 26.90,
+            "Excellent": 10.40
+        }
+    },
+    {
+        "year": 2014,
+        "Key Lakes & Reservoirs": {
+            "V+": 8.1,
+            "IV-V": 30.6,
+            "I-III": 61.3
+        },
+        "Main River Basins": {
+            "V+": 9.0,
+            "IV-V": 19.8,
+            "I-III": 71.2
+        },
+        "Groundwater & shallow groundwater": {
+            "Very Bad": 16.10,
+            "Bad": 45.40,
+            "Satisfactory": 1.80,
+            "Good": 25.90,
+            "Excellent": 10.80
+        }
+    },
+    {
+        "year": 2015,
+        "Key Lakes & Reservoirs": {
+            "V+": 8.1,
+            "IV-V": 22.6,
+            "I-III": 69.4
+        },
+        "Main River Basins": {
+            "V+": 8.9,
+            "IV-V": 19.0,
+            "I-III": 72.1
+        },
+        "Groundwater & shallow groundwater": {
+            "Very Bad": 18.8,
+            "Bad": 42.5,
+            "Satisfactory": 4.6,
+            "Good": 25.0,
+            "Excellent": 9.1
+        }
+    },
+    {
+        "year": 2016,
+        "Key Lakes & Reservoirs": {
+            "V+": 8.1,
+            "IV-V": 25.9,
+            "I-III": 66
+        },
+        "Main River Basins": {
+            "V+": 9.1,
+            "IV-V": 19.7,
+            "I-III": 71.2
+        },
+        "Groundwater & shallow groundwater": {
+            "Very Bad": 14.7,
+            "Bad": 45.4,
+            "Satisfactory": 4.4,
+            "Good": 25.4,
+            "Excellent": 10.1
+        }
+    },
+    {
+        "year": 2017,
+        "Key Lakes & Reservoirs": {
+            "V+": 10.7,
+            "IV-V": 26.7,
+            "I-III": 62.5
+        },
+        "Main River Basins": {
+            "V+": 8.4,
+            "IV-V": 19.8,
+            "I-III": 71.8
+        },
+        "Groundwater & shallow groundwater": {
+            "Very Bad": 14.8,
+            "Bad": 51.8,
+            "Satisfactory": 1.5,
+            "Good": 23.1,
+            "Excellent": 8.8
+        }
+    },
+    {
+        "year": 2018,
+        "Key Lakes & Reservoirs": {
+            "V+": 8,
+            "IV-V": 25,
+            "I-III": 67
+        },
+        "Main River Basins": {
+            "V+": 6.9,
+            "IV-V": 18.9,
+            "I-III": 74.3
+        },
+        "Groundwater & shallow groundwater": {
+            "Very Bad": 15.5,
+            "Bad": 70.7,
+            "Satisfactory": 2.9,
+            "Good": 9,
+            "Excellent": 1.9
+        }
+    },
+    {
+        "year": 2019,
+        "Key Lakes & Reservoirs": {
+            "V+": 7.3,
+            "IV-V": 23.6,
+            "I-III": 69.1
+        },
+        "Main River Basins": {
+            "V+": 3,
+            "IV-V": 17.9,
+            "I-III": 79.1
+        },
+        "Groundwater & shallow groundwater": {
+            "V+": 18.8,
+            "IV-V": 66.9,
+            "I-III": 14.4
+        }
+    },
+    {
+        "year": 2020,
+        "Key Lakes & Reservoirs": {
+            "V+": 5.4,
+            "IV-V": 17.8,
+            "I-III": 76.8
+        },
+        "Main River Basins": {
+            "V+": 0.2,
+            "IV-V": 12.3,
+            "I-III": 87.4
+        },
+        "Groundwater & shallow groundwater": {
+            "V+": 17.6,
+            "IV-V": 68.8,
+            "I-III": 13.6
+        }
+    }
+]

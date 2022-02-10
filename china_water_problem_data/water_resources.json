@@ -1,0 +1,138 @@
+[
+    {
+        "year": 2000,
+        "Total Water Resources": 27700.8,
+        "Surface Water Resources": 26561.9,
+        "Ground Water Resources": 8501.9,
+        "Overlapped Measurement Between Surface Water and Groundwater": 7363.0,
+        "Per Capita Water Resources": 2193.9
+    },
+    {
+        "year": 2005,
+        "Total Water Resources": 28053.1,
+        "Surface Water Resources": 26982.4,
+        "Ground Water Resources": 8091.1,
+        "Overlapped Measurement Between Surface Water and Groundwater": 7020.4,
+        "Per Capita Water Resources": 2151.8
+    },
+    {
+        "year": 2006,
+        "Total Water Resources": 25330.1,
+        "Surface Water Resources": 24358.1,
+        "Ground Water Resources": 7642.9,
+        "Overlapped Measurement Between Surface Water and Groundwater": 6670.8,
+        "Per Capita Water Resources": 1932.1
+    },
+    {
+        "year": 2007,
+        "Total Water Resources": 25255.2,
+        "Surface Water Resources": 24242.5,
+        "Ground Water Resources": 7617.2,
+        "Overlapped Measurement Between Surface Water and Groundwater": 6604.5,
+        "Per Capita Water Resources": 1916.3
+    },
+    {
+        "year": 2008,
+        "Total Water Resources": 27434.3,
+        "Surface Water Resources": 26377.0,
+        "Ground Water Resources": 8122.0,
+        "Overlapped Measurement Between Surface Water and Groundwater": 7064.7,
+        "Per Capita Water Resources": 2071.1
+    },
+    {
+        "year": 2009,
+        "Total Water Resources": 24180.2,
+        "Surface Water Resources": 23125.2,
+        "Ground Water Resources": 7267.0,
+        "Overlapped Measurement Between Surface Water and Groundwater": 6212.1,
+        "Per Capita Water Resources": 1816.3
+    },
+    {
+        "year": 2010,
+        "Total Water Resources": 30906.4,
+        "Surface Water Resources": 29797.6,
+        "Ground Water Resources": 8417.0,
+        "Overlapped Measurement Between Surface Water and Groundwater": 7308.2,
+        "Per Capita Water Resources": 2310.4
+    },
+    {
+        "year": 2011,
+        "Total Water Resources": 23256.7,
+        "Surface Water Resources": 22213.6,
+        "Ground Water Resources": 7214.5,
+        "Overlapped Measurement Between Surface Water and Groundwater": 6171.4,
+        "Per Capita Water Resources": 1729.1
+    },
+    {
+        "year": 2012,
+        "Total Water Resources": 29528.8,
+        "Surface Water Resources": 28373.3,
+        "Ground Water Resources": 8296.4,
+        "Overlapped Measurement Between Surface Water and Groundwater": 7140.9,
+        "Per Capita Water Resources": 2180.5
+    },
+    {
+        "year": 2013,
+        "Total Water Resources": 27957.9,
+        "Surface Water Resources": 26839.5,
+        "Ground Water Resources": 8081.1,
+        "Overlapped Measurement Between Surface Water and Groundwater": 6962.7,
+        "Per Capita Water Resources": 2050.8
+    },
+    {
+        "year": 2014,
+        "Total Water Resources": 27266.9,
+        "Surface Water Resources": 26263.9,
+        "Ground Water Resources": 7745.0,
+        "Overlapped Measurement Between Surface Water and Groundwater": 6742.0,
+        "Per Capita Water Resources": 1987.6
+    },
+    {
+        "year": 2015,
+        "Total Water Resources": 27962.6,
+        "Surface Water Resources": 26900.8,
+        "Ground Water Resources": 7797.0,
+        "Overlapped Measurement Between Surface Water and Groundwater": 6735.2,
+        "Per Capita Water Resources": 2026.5
+    },
+    {
+        "year": 2016,
+        "Total Water Resources": 32466.4,
+        "Surface Water Resources": 31273.9,
+        "Ground Water Resources": 8854.8,
+        "Overlapped Measurement Between Surface Water and Groundwater": 76623.0,
+        "Per Capita Water Resources": 2339.4
+    },
+    {
+        "year": 2017,
+        "Total Water Resources": 28761.2,
+        "Surface Water Resources": 27746.3,
+        "Ground Water Resources": 8309.6,
+        "Overlapped Measurement Between Surface Water and Groundwater": 7294.7,
+        "Per Capita Water Resources": 2059.9
+    },
+    {
+        "year": 2018,
+        "Total Water Resources": 27462.5,
+        "Surface Water Resources": 26323.2,
+        "Ground Water Resources": 8246.5,
+        "Overlapped Measurement Between Surface Water and Groundwater": 7107.2,
+        "Per Capita Water Resources": 1957.7
+    },
+    {
+        "year": 2019,
+        "Total Water Resources": 29041.0,
+        "Surface Water Resources": 27993.3,
+        "Ground Water Resources": 8191.5,
+        "Overlapped Measurement Between Surface Water and Groundwater": 7143.8,
+        "Per Capita Water Resources": 2062.9
+    },
+    {
+        "year": 2020,
+        "Total Water Resources": 31605.2,
+        "Surface Water Resources": 30407.0,
+        "Ground Water Resources": 8553.5,
+        "Overlapped Measurement Between Surface Water and Groundwater": 7355.3,
+        "Per Capita Water Resources": 2239.8
+    }
+]

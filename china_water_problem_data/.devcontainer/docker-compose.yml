@@ -1,0 +1,15 @@
+version: '3'
+
+services:
+  app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    volumes:
+      - ..:/workspace:cached
+      - ~/.vimrc:/root/.vimrc
+      - ~/.inputrc:/root/.inputrc
+      - ~/.tmux.conf:/root/.tmux.conf
+      - ~/.vim:/root/.vim
+    command: tail -f /dev/null
+    working_dir: /workspace/
