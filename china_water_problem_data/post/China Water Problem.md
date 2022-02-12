@@ -22,7 +22,7 @@ South more water
 
 North East has good water
 
-Greatest is South West, Snow Glacers. 
+Greatest is South West, Snow Glaciers. 
 
 Water Politics
 
