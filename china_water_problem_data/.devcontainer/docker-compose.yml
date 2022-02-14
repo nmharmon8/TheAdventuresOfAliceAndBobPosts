@@ -13,3 +13,4 @@ services:
       - ~/.vim:/root/.vim
     command: tail -f /dev/null
     working_dir: /workspace/
+    network_mode: "host"
