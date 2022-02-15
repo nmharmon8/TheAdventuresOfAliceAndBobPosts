@@ -2,21 +2,35 @@
 
 ## Introduction
 
-If you are anything like me you have heard a lot of roomers about China having a water shortage. Yet never had the time to dig into the truth of the matter. After spending the last week reading research reports and exploring data, I believe China does have a water problem, but what has been written in click bat arctics have is misleading (yea duh). Even the majority of the research reports that are publicly available are out of date. The picture you will get from reading the results returned by Google would lead you to believe that China is crumbling at the seams due to a lack of water. The data, admittedly largely provided by China, does not support imitate catastrophic collapse of China due to water sacristy. Rather, the data shows China is being constrained by the sacristy of water and the constraint of water sacristy is not limited to China.
+If you are anything like me, you have heard a lot of murmuring about water scarcity in China. Yet, you may never have had the time to dig into the matter. Water is a huge topic, from its size covering around 71 percent of the earth, to being an absolute requirement of life. This article will by no means cover the entirety of the effects of water scarcity in China, but it is a good jumping-off point for the topic.
 
-## Outing the Water Problem in China
+China has a lot fewer freshwater resources relative to its size and population than the United States. The population of China is ~18% of the world's population while they only have ~7% of the world's freshwater resources.  Per capita, China has 2029m³ of water vs the United States having 8867m³. Along side the scarcity of water in China, it is not evening distributed geographically. The majority of the water is located in the South, while the majority of the population is located in the North. On the global scale China is far better off then many countries. Kuwait has no permanent lakes or rivers, Bahrain has only 23m³, Egypt 35m³, Sudan 110m³ of water per capita.
 
-China historically has been a poor steward of its water resources. In 2009 only 23% of the water in lakes and reservoirs was suitable for domestic use, while 35% of the water was not even usable for industrialist uses [china water risk]. The incredible extent of water pollution in China has been a compounding factor for water scarcity in China.
+China has had an extreme focus on economic growth. This has come at a great cost, specifically water resources. This has led to the building of dams, water diversion projects, and the use of groundwater at unsustainable rates. The Three Gorges Dam, for example, has impacted the environment and specifically water resources in many ways. The reservoir behind the dam has displaced 1.24 million people. The dam has also led to changes in the sediment and water flow of the Yangtze River, which has impacted agriculture and the fishing industry.
 
-Beyond water pollution, China has a lot fewer freshwater resources relative to its size and population than the United States. The population of China is ~18% of the world's population while they only have ~7% of the world's freshwater resources. The water that China does have is not well distributed across China. The majority of the water is located in the South, while the majority of the population is located in the North.  
+![](images/ChinaGDPVSUSA.png)
+Chart from the [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=CN-US)
 
-Making the matter even worse for China is the economic focus on exports and growth. China has held the mandate to be self-sufficient in energy, food, and minerals, but they have exceeded self-sufficiency in main areas. China is the world's large exporter of many agricultural products: Wheat, Rice, Cotton, Lettuce, Green Beans, Potatoes, Spinach, Pumpkin, Squash, Sweet Potatoes, Pears Grapes, Peaches, Apples, Pork, Lamb, Goats, Ducks, and a whole lot more. In addition to agricultural products, we are all very aware of how many of the physical goods we enjoy are created in China.
+The grow-or-die mentality of China historically led to the poor steward of its water resources. In 2009 only 23% of the water in lakes and reservoirs was suitable for domestic use, while 35% of the water was not even usable for industrialist uses. China has proven time and time again that it can make massive changes that would be impossible for most governments and peoples.
 
-## China Addressing the Water Problem
+The grow-or-die mentality of China historically led to the poor steward of its water resources. In 2009 only 23% of the water in lakes and reservoirs was suitable for domestic use, while 35% of the water was not even usable for industrialist uses. China has proven time and time again that it can make massive changes that would be impossible for most governments and peoples.
 
-### 1: Addressing Pollution
+In response to water scarcity and the incredible pollution, China put in place several policies:
 
-Based on data provided by the National Bureau of Statistics of China and the CWR (China Water Risk) addressing pollution has been Chinas greatest success. China has implemented major policy changes to address the pollution of water. Both focused on addressing the causes of population and cleaning up the already polluted water. China has built hundreds of water treatment facilities to clean up existing pollution. One of the largest pollutants is run of pesticides and fertilizers, so China has required farmers to create buffer zones between the crops and bodies of water. Many similarly drastic efforts have been implemented by China to address water pollution. The data below show the success of the policies.
+* In 1988, China adopted ["Water Law"](http://www.lmcwater.org.cn/knowledge_sharing/water_policy/chn/202008/t20200827_162742.html) for "the purposes of rationally developing, utilizing, conserving and protecting water resources, preventing and controlling water disasters, bringing about sustainable utilization of water resources, and meeting the need of national economic and social development. ". The Water Law was revised in 2002 and amended in 2009.
+* In 1984, China adopted the ["Law of the People’s Republic of China on Water and Soil Conservation"](http://www.lmcwater.org.cn/knowledge_sharing/water_policy/chn/202008/t20200827_162743.html) is "formulated for the purposes of preventing and controlling soil erosion, protecting and rationally using water and soil resources, mitigating flood, drought and sandstorm disasters, improving the ecological environment and protecting sustainable socio-economic development". Revised in 2010.
+* In 1991, China adopted the ["Law of the People’s Republic of China on Prevention
+and Control of Water Pollution"](http://www.lmcwater.org.cn/knowledge_sharing/water_policy/chn/202008/t20200827_162745.html) is "formulated for the purposes of preventing and controlling water pollution, protecting and improving the environment, safeguarding drinking water and promoting overall, balanced and sustainable development of the economy and society.". Amended in 2019 and 2015.
+* In 2014, China adopted ["The Regulations on Administration of Supply and Use of Water from the
+South-to-North Water Diversion Project"](http://www.lmcwater.org.cn/knowledge_sharing/water_policy/chn/202008/t20200827_162746.html) are "formulated for the purpose of strengthening
+administration of supply and use of water from the South-to-North Water Diversion
+Project and optimizing the economic, social and ecological benefits of the Project.".
+
+Although the policies often did not work as intended and had secondary consequences, China seemingly has put an end to water pollution. Based on data provided by the National Bureau of Statistics of China and the CWR (China Water Risk) China has been largely successful in addressing pollution. China has built hundreds of water treatment facilities to clean up existing pollution.
+
+Quick Note About Data: The data is provided by China specifically the National Bureau of Statistics of China. It has some questionable aspects, especially related to how they measured pollution levels. Some years, without any explanation, they changed what lakes and rivers they took measurements from. Other years they changed the number of measurements taken from each source. Given any source of data, you must always be aware of collection bias. I have pointed out one questionable aspect but there are many more that are less quantifiable.
+
+From the [CWR](https://www.chinawaterrisk.org/) the definition of water grades:
 
 * Grade I: suitable for source water and national natural reserve
 
@@ -34,27 +48,45 @@ Based on data provided by the National Bureau of Statistics of China and the CWR
 
 ![](images/main_rivers_basins_water_quality.png)
 
-Lake, Reservoirs, River river basins have all had significant improvements in the pollution levels.
+Lake, Reservoirs, River river basins have all had significant improvements in the pollution levels. The amount of water that qualifies for domestic use increased 30-40% and continue to head in  a good direction.
 
 ![](images/groundwater_and_shallow_groundwater_quality.png)
 
-The groundwater has continued to deteriorate in quality even given the policy focused on reducing water pollution.
+The groundwater has continued to deteriorate in quality even given the policy focused on reducing water pollution. There are many potential reasons why groundwater quality may be deteriorating, even despite policy efforts to reduce water pollution. Possible reasons include:
 
-How much does addressing water pollution help China with water scarcity? We can use the water quality metrics to adjust the water resources per capita numbers into good water per capita. Here we have China's water resources per capita. These numbers look great. Accepted definitions of water stress/scarcity and acute scarcity are respectively 1,700m3, 1,000m3, and 500m3per person per year for all uses, direct and indirect. Based on those measures it looks pretty good, now let's consider the water resources adjusted for pollution.
+* Groundwater recharge areas are being polluted, for example from agricultural or industrial runoff;
+* Groundwater is becoming contaminated from septic tanks or other sources of wastewater;
+* Excessive pumping of groundwater can lower groundwater levels and increase the chances that pollutants will come into contact with water sources.
+
+How much does addressing water pollution help China with water scarcity? We can use the water quality metrics to adjust the water resources per capita numbers into good water per capita. Recall from earlier that China has 2,029m³ per capita.
 
 ![](images/per_capita_water_resources.png)
 
-Now we get a very different picture of actual available water per capita. In 2011 water resources per capita were approaching actual scarcity. The clean-up of the pollution has broth water resource from actual scarcity above water stress levels.
+2,029m³ per capita is above the accepted definition of water scarcity.
+
+* Water stress 1,700m³
+* Water scarcity 1,000m³
+* Water acute scarcity 500m³
+
+Based only on this number China water scarcity looks pretty good. Now let's consider the water resources adjusted for pollution.
 
 ![](images/good_per_capita_water_resources.png)
 
-It is important to realize that this water is not located where it is needed, so people living in the big Northern cities like Beijing are still experiencing actual water scarcity.
+Now we get a very different picture of actual available water per capita. In 2011 water resources per capita were approaching actual scarcity. The clean-up of the pollution has broth water resource from actual scarcity above water stress levels. This delivers a very good improvement in water scarcity just from addressing pollution.
+
+It is important to realize that this water is not located where it is needed, so people living in the big Northern cities like Beijing are still experiencing actual water scarcity, with water resources per capita in 2020 at 117.8m³. Tianjin is the worst, 96m³ per capita in water resources. On the other hand, Jiangxi, which is further south, has 3,731m³ per capita. Yet the economic forces keep people moving to industrialized northern city regardless of the poor stands of living.
 
 ### 2: The North to South Water Diversion Project
 
-Speaking of water not being located where it is needed, this is a good time to briefly bring up the South to North water diversion project. The South to North water diversion project was conceived in 1952, after Mao Zedong said "Water in the south is abundant, water in the north scarce. If possible, it would be fine to borrow a little.". Mao Zedong, the man who is the architect of the world's deadliest famine, paltrily due to the unproven agricultural practices he forced farmers to adopt as part of his Great Leap Forward. As Moa indicated, 80% of the water in China is located in the south while the greater part of the population lives in the north. The industrialization of China has only increased the trend of people moving from the west of China to large Eastern cities, such as Beijing. The growing population in the North-East parts of China has exacerbated the lack of water. This lack has led to the world's largest water relocation project in history. If completed the project would divert ~45 billion cubic meters of water annually from four major rivers: Yangtze, Yellow River, Huaihe, and Haihe. From 2014 to 2021 the project has diverted ~50 billion cubic meters of water, supplying 70-80% of the water consumed in Beijing and the neighboring provinces. In Beijing water per capita is still in the actual water sacristy levels. Even efforts at this scale can not keep up with the growing population and increasing demand for industrial processes. The project is expected to take another 40-50 years to complete. Diverting water is costly, estimated to cost 500 billion yuan (~80 billion U.S. dollars). Given the current multi-trillion scope of government spending, this no longer seems like that much money. It's not clear the South to North water diversion project was a good choice, but it demonstrates the extent that China is willing to go.
+![](images/HigkygnaHH.png)
 
-### 3: Reduction of Usage Through Policy
+Speaking of water not being located where it is needed and the big northern cities, this is a good time to briefly bring up the South to North water diversion project. The South to North water diversion project was conceived in 1952, after Mao Zedong said "Water in the south is abundant, water in the north scarce. If possible, it would be fine to borrow a little.". Mao Zedong, the man who is the architect of the world's deadliest famine, partly due to the unproven agricultural practices he forced farmers to adopt as part of his Great Leap Forward. As Moa indicated, 80% of the water in China is located in the south while the greater part of the population lives in the north. The industrialization of China has only increased the trend of people moving from the west of China to large Eastern cities, such as Beijing. The growing population in the North-East parts of China has exacerbated the lack of water. This lack has led to the world's largest water relocation project in history. If completed the project would divert ~45 billion m³ of water annually from four major rivers: Yangtze, Yellow River, Huaihe, and Haihe. From 2014 to 2021 the project has diverted ~50 billion m³ of water, supplying 70-80% of the water consumed in Beijing and the neighboring provinces. This has allowed Bejing to continue to grow and increase production, but as just discussed, in Beijing water per capita is still in the actual water sacristy levels. Even efforts at this scale can not keep up with the growing population and increasing demand for industrial processes. The project is expected to take another 40-50 years to complete. Diverting water is costly, estimated to cost 500 billion yuan (~80 billion U.S. dollars). Given the current multi-trillion scope of government spending, this no longer seems like that much money. It's not clear the South to North water diversion project was a good choice, but it demonstrates the extent that China is willing to go.
+
+## Section Title
+
+So far we have discussed major initiatives that China has done to deal with water scarcity. Yet even as they make more water resources available, they consume them in the creation of continuous growth. China is the world’s second largest user of water resources behind India.
+
+![](images/total_water_withdrawals_by_county.png)
 
 China has exerted enormous efforts to improve the quality and availability of water. Alongside these efforts, China has created policies to reduce the usage of water. [China Water Conservation Project](https://en.ndrc.gov.cn/policies/202105/t20210521_1280514.html)
 
