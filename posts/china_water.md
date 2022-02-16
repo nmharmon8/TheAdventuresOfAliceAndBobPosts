@@ -16,8 +16,6 @@ China has had an extreme focus on economic growth. This has come at a great cost
 
 The grow-or-die mentality of China historically led to the poor steward of its water resources. In 2009 only 23% of the water in lakes and reservoirs was suitable for domestic use, while 35% of the water was not even usable for industrialist uses. China has proven time and time again that it can make massive changes that would be impossible for most governments and peoples.
 
-The grow-or-die mentality of China historically led to the poor steward of its water resources. In 2009 only 23% of the water in lakes and reservoirs was suitable for domestic use, while 35% of the water was not even usable for industrialist uses. China has proven time and time again that it can make massive changes that would be impossible for most governments and peoples.
-
 In response to water scarcity and the incredible pollution, China put in place several policies:
 
 * In 1988, China adopted ["Water Law"](http://www.lmcwater.org.cn/knowledge_sharing/water_policy/chn/202008/t20200827_162742.html) for "the purposes of rationally developing, utilizing, conserving and protecting water resources, preventing and controlling water disasters, bringing about sustainable utilization of water resources, and meeting the need of national economic and social development. ". The Water Law was revised in 2002 and amended in 2009.
