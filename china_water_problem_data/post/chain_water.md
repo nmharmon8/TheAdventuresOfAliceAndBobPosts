@@ -45,22 +45,26 @@ From the [CWR](https://www.chinawaterrisk.org/) the definition of water grades:
 * Grade V+: not suitable for any use
 
 ![](images/key_lekes_and_reservoirs_water_quality.png)
+[Source](https://www.chinawaterrisk.org/resources/analysis-reviews/2020-state-of-ecology-environment-report-review/)
 
 ![](images/main_rivers_basins_water_quality.png)
+[Source](https://www.chinawaterrisk.org/resources/analysis-reviews/2020-state-of-ecology-environment-report-review/)
 
 Lake, Reservoirs, River river basins have all had significant improvements in the pollution levels. The amount of water that qualifies for domestic use increased 30-40% and continue to head in  a good direction.
 
 ![](images/groundwater_and_shallow_groundwater_quality.png)
+[Source](https://www.chinawaterrisk.org/resources/analysis-reviews/2020-state-of-ecology-environment-report-review/)
 
 The groundwater has continued to deteriorate in quality even given the policy focused on reducing water pollution. There are many potential reasons why groundwater quality may be deteriorating, even despite policy efforts to reduce water pollution. Possible reasons include:
 
-* Groundwater recharge areas are being polluted, for example from agricultural or industrial runoff;
-* Groundwater is becoming contaminated from septic tanks or other sources of wastewater;
+* Groundwater recharge areas are being polluted, for example from agricultural or industrial runoff.
+* Groundwater is becoming contaminated from septic tanks or other sources of wastewater.
 * Excessive pumping of groundwater can lower groundwater levels and increase the chances that pollutants will come into contact with water sources.
 
-How much does addressing water pollution help China with water scarcity? We can use the water quality metrics to adjust the water resources per capita numbers into good water per capita. Recall from earlier that China has 2,029m³ per capita.
-
 ![](images/per_capita_water_resources.png)
+[Source](http://www.stats.gov.cn/tjsj/ndsj/2021/indexeh.htm)
+
+How much does addressing water pollution help China with water scarcity? We can use the water quality metrics to adjust the water resources per capita numbers into good water per capita. Recall from earlier that China has 2,029m³ per capita.
 
 2,029m³ per capita is above the accepted definition of water scarcity.
 
@@ -68,40 +72,60 @@ How much does addressing water pollution help China with water scarcity? We can 
 * Water scarcity 1,000m³
 * Water acute scarcity 500m³
 
-Based only on this number China water scarcity looks pretty good. Now let's consider the water resources adjusted for pollution.
+Based only on the total water resources per capita China looks to be in a spot. Now let's consider the water resources adjusted for pollution.
 
 ![](images/good_per_capita_water_resources.png)
+[Source 1](http://www.stats.gov.cn/tjsj/ndsj/2021/indexeh.htm) -- [Source 2](https://www.chinawaterrisk.org/resources/analysis-reviews/2020-state-of-ecology-environment-report-review/)
 
-Now we get a very different picture of actual available water per capita. In 2011 water resources per capita were approaching actual scarcity. The clean-up of the pollution has broth water resource from actual scarcity above water stress levels. This delivers a very good improvement in water scarcity just from addressing pollution.
+Now we have a more informed picture of actual available water per capita. In 2011 water resources per capita were approaching actual scarcity. The clean-up of the pollution has brought water resource from actual scarcity to above water stress levels. A very good improvement in water scarcity just from addressing pollution.
 
 It is important to realize that this water is not located where it is needed, so people living in the big Northern cities like Beijing are still experiencing actual water scarcity, with water resources per capita in 2020 at 117.8m³. Tianjin is the worst, 96m³ per capita in water resources. On the other hand, Jiangxi, which is further south, has 3,731m³ per capita. Yet the economic forces keep people moving to industrialized northern city regardless of the poor stands of living.
+
+China has simultaneously increased the number of people with access to freshwater while decreasing the usage of the water.
+
+![](images/per_capita_water_use.png)
+[Source](http://www.stats.gov.cn/tjsj/ndsj/2021/indexeh.htm)
 
 ### 2: The North to South Water Diversion Project
 
 ![](images/HigkygnaHH.png)
+[Source](http://www.china.org.cn/china/2016-11/29/content_39810706_11.htm)
 
 Speaking of water not being located where it is needed and the big northern cities, this is a good time to briefly bring up the South to North water diversion project. The South to North water diversion project was conceived in 1952, after Mao Zedong said "Water in the south is abundant, water in the north scarce. If possible, it would be fine to borrow a little.". Mao Zedong, the man who is the architect of the world's deadliest famine, partly due to the unproven agricultural practices he forced farmers to adopt as part of his Great Leap Forward. As Moa indicated, 80% of the water in China is located in the south while the greater part of the population lives in the north. The industrialization of China has only increased the trend of people moving from the west of China to large Eastern cities, such as Beijing. The growing population in the North-East parts of China has exacerbated the lack of water. This lack has led to the world's largest water relocation project in history. If completed the project would divert ~45 billion m³ of water annually from four major rivers: Yangtze, Yellow River, Huaihe, and Haihe. From 2014 to 2021 the project has diverted ~50 billion m³ of water, supplying 70-80% of the water consumed in Beijing and the neighboring provinces. This has allowed Bejing to continue to grow and increase production, but as just discussed, in Beijing water per capita is still in the actual water sacristy levels. Even efforts at this scale can not keep up with the growing population and increasing demand for industrial processes. The project is expected to take another 40-50 years to complete. Diverting water is costly, estimated to cost 500 billion yuan (~80 billion U.S. dollars). Given the current multi-trillion scope of government spending, this no longer seems like that much money. It's not clear the South to North water diversion project was a good choice, but it demonstrates the extent that China is willing to go.
 
 ## Section Title
 
-So far we have discussed major initiatives that China has done to deal with water scarcity. Yet even as they make more water resources available, they consume them in the creation of continuous growth. China is the world’s second largest user of water resources behind India.
+So far we have discussed major initiatives that China has done to deal with water scarcity. We have not even touch on some of the major efforts to collect more water such as Sponge Cities reusing 70% of rain water or Cloud Seeding ([Katja Friedrich Professor at University of Colorado Boulder](https://www.pnas.org/content/117/10/5190)). Yet even as they make more water resources available, they consume them in the creation of continuous growth. This has lead China to become the world’s second largest user of water resources behind India and second largest economy.
 
 ![](images/total_water_withdrawals_by_county.png)
+[Source](https://ourworldindata.org/water-use-stress)
 
-China has exerted enormous efforts to improve the quality and availability of water. Alongside these efforts, China has created policies to reduce the usage of water. [China Water Conservation Project](https://en.ndrc.gov.cn/policies/202105/t20210521_1280514.html)
+What is China using this incredible amount of water for? Agriculture 63%, industrial 22%, and humans 14%.
+
+Agriculture is discordant in China. As the greatest consumer of water, it has been a major focus of the policies attempting to reduce water consumption. Simultaneously, China holds the mandate to be self-sufficient in energy, food, and minerals. Beyond, self-sufficiency they have been growing tremendously on the global stage pushing to increase exports. China is the world's large exporter of many agricultural products: Wheat, Rice, Cotton, Lettuce, Green Beans, Potatoes, Spinach, Pumpkin, Squash, Sweet Potatoes, Pears Grapes, Peaches, Apples, Pork, Lamb, Goats, Ducks, and a whole lot more. Given conflicting objectives agriculture is in the firing line.
+
+Alongside the conflicting objectives around agriculture sites the fact that agriculture is a major source of water pollution. The pesticides and fertilizers run off the crops into bodies of water, polluting and changing the ecology. Agricultural pollution is rampant worldwide, showing up with many varied second-order effects. An interesting example [Amazon destruction linked to the largest belt of algae on the planet](https://www.nola.com/news/environment/article_8f73ac64-8916-11eb-8ca1-2b9612ea17ff.html).
 
 ![](images/water_use_by_segment.png)
+[Source](http://www.stats.gov.cn/tjsj/ndsj/2021/indexeh.htm)
 
-Agriculture is the largest use of water in China, so not surprisingly a lot of the policy has centered around Agriculture. The policy has included changes in water arrogation technology, increasing the number of water-efficient crops, decreasing the number of areas zoned for agriculture, and much more.
+Chinas agriculture regulation has caused shifts in what types of crops are being grown. Focusing on higher profit lower water consumption. The farming practices are also being changed to reduce wasteful uses of water. Land near important sources of water is no longer being used for agriculture to reduce the effects of pesticides and fertilizer runoff. Alongside the rezoning of agricultural land, the amount of arable in China is decreasing due to soil destruction, from unsustainable farming practices. Soil destruction is a global problem, Dirt: The Erosion of Civilizations is a great book on the subject. This has forced China to grow crops further from water sources exasperating water shortages for agriculture production. Yet given all these changes China has been successful at slightly decreasing overall agricultural water usage while increasing agricultural profit internally and from exports.
 
-Policies have also been put in place to decreases industrial water usage. Industrial water usage includes power generation. One extremely prominent policy was banning Bitcoin mining in China. Mining BTC was estimated to consume 1% of China's electricity. Electricity production uses a lot of water, a coal-fired power plant uses about 12 million gallons of water per hour. This does not include the water used for the "Coal Washing" part of the mining process of coal. Nuclear power plants use smiler qualities of water in the production of electricity to coal-fired power plants. The scarcity of water in China has caused a scarcity of electricity forcing China to implement policies that limit the use of electricity. The limitations on power and water usage have had impacts on Chinas industry. China has halted the production of key suppliers to Apple and Tesla until they were able to decreases the power requirement of manufacturing. The halts incurred stalls in the manufacturing of Apple and Tesla due to the lack of supplies. Given the high visibility of affecting Apple and Tesla, these were not the first manufacturers to have electrical power efficiency requirements placed open them.
+![](images/china_corn_map.png)
 
-China has simultaneously increased the number of people with access to freshwater while decreasing the usage of the water.
+Electricity the lifeblood of modern civilizations and consumer of water. So much of modern life comes down to energy. Yet the production of energy in almost any form consumes large amounts of water. In China, most of the electricity is produced by col poser plants. Using on average 12 million gallons of water per hour. This does not include the water used for the "Coal Washing" part of the mining process of coal.  Electricity production along mining or the two big drivers of water usage in the industrial segment. This has led China to take some drastic measures around Electricity usage. One extremely prominent policy was banning Bitcoin mining in China. Mining BTC was estimated to consume 1% of China's electricity.
 
-![](images/per_capita_water_use.png)
+![](images/China-electricity-prod-source-stacked.png)
 
-By the end of 2019, "more than 40,000 projects had been implemented as part of efforts to build sponge cities, utilizing 350 million tonnes of rainwater annually." [http://www.xinhuanet.com/english/2021-05/13/c_139943703.htm]
+The scarcity of water in China has caused a scarcity of electricity forcing China to implement policies that limit the use of electricity. The limitations on power and water usage have had impacts on Chinas industry. China has halted the production of key suppliers to Apple and Tesla until they were able to decreases the power requirement of manufacturing. The halts incurred stalls in the manufacturing of Apple and Tesla due to the lack of supplies. Given the high visibility of affecting Apple and Tesla, these were not the first manufacturers to have electrical power efficiency requirements placed open them.
 
-Dams
+China is the leading producer of hydropower. Having the world's largest hydro dam, The Three Gorges Dam and plan to build an even larger dam. Hydropower has downsides:
 
-Water is a constraint on China, and a constraint on the world
+* Highly variable based on wet and dry seasons.
+* Building new dams have large and unpredictable environmental changes
+* Often the dams are not near population centers, requiring long-distance and expensive transmission
+* Policy sensitive, due to the downstream effects in other countries from building a dam
+
+Nuclear power plants are frequently brought up, but use smiler qualities of water in the production of electricity to coal-fired power plants.
+
+Water is essential to life and constraints on water availability quickly turn into contrarians on life. China has been dealing with water scarcity for decades and all the doom and gloom predictions have not come to fruition. We have barely scratched the surface of water in China let alone the global implications. Time and time again China has adopted massive changes to address whatever challenge is impeding growth. Sometimes with incredible costs: environmental, monetary, and the very lives of the Chinese people. There is a theoretical concentrate that China and all grow-or-die economies will hit, I don't know if that is in 10 or 1000 years. But continued growth will fail one day, maybe because of water or one of the enumerable other intertangled possibilities. Yet be careful when you bet against China, they have done the impossible many time, ignoring all costs.
