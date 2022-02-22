@@ -67,7 +67,7 @@ Lets add a new image into the image directory.
 
 Save this image as `backend/images/tux.png`
 
-<img src="/static/images/rust_website_tutorial/tux.png" width="300" />
+<img src="post_assets/rust_website_tutorial/tux.png" width="300" />
 
 Now lets create some markup to render on the homepage.
 
@@ -459,7 +459,7 @@ fn view(&self, _ctx: &Context<Self>) -> Html {
 }
 ```
 
-<img src="/static/images/rust_website_tutorial/final.png" width="600" />
+<img src="post_assets/rust_website_tutorial/final.png" width="600" />
 
 All done. You now have the basic building blocks to do something cool. Have fun building.
 

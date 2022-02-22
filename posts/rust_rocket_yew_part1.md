@@ -164,7 +164,7 @@ cargo run
 
 Navigate to localhost:8000 in you browser.
 
-<img src="/static/images/rust_website_tutorial/helloWorldBrowser.png" width="600" />
+<img src="post_assets/rust_website_tutorial/helloWorldBrowser.png" width="600" />
 
 Congratulations you can now serve data using the rocket webserver 🎉.
 
@@ -302,7 +302,7 @@ trunk serve
 
 Navigate in your browser to localhost:8080
 
-<img src="/static/images/rust_website_tutorial/yewHelloWorldBrowser.png" width="600" />
+<img src="post_assets/rust_website_tutorial/yewHelloWorldBrowser.png" width="600" />
 
 Yeah 🐣! We have again made a hello world, but we did it with way more code. Soon the power of Yew will become evident.
 
