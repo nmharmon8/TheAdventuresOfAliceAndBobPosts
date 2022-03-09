@@ -144,7 +144,7 @@ ___
 
 Now we have a nice little banner that is being loaded from the backend.
 
-<img src="post_assets/rust_website_tutorial/banner_showing.png" width="600" />
+<img src="https://raw.githubusercontent.com/nmharmon8/TheAdventuresOfAliceAndBobPosts/main/posts/post_assets/rust_website_tutorial/banner_showing.png" width="600" />
 
 ## Create a Home Page
 
@@ -304,11 +304,11 @@ fn view(&self, ctx: &Context<Self>) -> Html {
 
 Now the home page will load for the / url.
 
-<img src="post_assets/rust_website_tutorial/home_page.png" width="600" />
+<img src="https://raw.githubusercontent.com/nmharmon8/TheAdventuresOfAliceAndBobPosts/main/posts/post_assets/rust_website_tutorial/home_page.png" width="600" />
 
 All other urls will resolve to the note found page.
 
-<img src="post_assets/rust_website_tutorial/not_found_page.png" width="600" />
+<img src="https://raw.githubusercontent.com/nmharmon8/TheAdventuresOfAliceAndBobPosts/main/posts/post_assets/rust_website_tutorial/not_found_page.png" width="600" />
 
 ## Creating a Navigation Bar
 
@@ -463,7 +463,7 @@ fn view(&self, ctx: &Context<Self>) -> Html {
     }
 ```
 
-<img src="post_assets/rust_website_tutorial/navbar.png" width="600" />
+<img src="https://raw.githubusercontent.com/nmharmon8/TheAdventuresOfAliceAndBobPosts/main/posts/post_assets/rust_website_tutorial/navbar.png" width="600" />
 
 Nice. Now we have a nice nav bar 💫.
 
