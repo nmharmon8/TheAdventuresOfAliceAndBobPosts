@@ -1,10 +1,13 @@
 # TheAdventuresOfAliceAndBobPosts
 The Adventures Of Alice And Bob Posts
 
-The post currently are created using CMarkup. I am looking into moving from CMarkup into [Nota](https://nota-lang.org/).
+Editor for posts.
 
-Recommond, viewing method is to use [VSCode](https://code.visualstudio.com/) with the markdownlint(davidanson.vscode-markdownlint) extention for rending the CMarkup.
+https://editor.theadventuresofaliceandbob.com/
 
-TODO:
-* Add the image directory to this repo so all the content of a post can be rendered. 
-* Make a better way to edit on mobile.
+Post List:
+[A Primer On Water Scarcity In China](https://editor.theadventuresofaliceandbob.com/aZ8UOz9iSu69SjvaxjZrgw)
+[Docker Development for Rust Rocket Yew](https://editor.theadventuresofaliceandbob.com/rpZ-Y4dkTGe3dh1HsAmg4Q)
+[Part 1: Building a WebSite in Rust Using Rocket and Yew](https://editor.theadventuresofaliceandbob.com/bLLOQ_ZZRo2irVUdKFOsrg)
+[Part 2: Building a WebSite in Rust Using Rocket and Yew](https://editor.theadventuresofaliceandbob.com/Aoq7EV7HSDSk-mTv6i7zCQ)
+[Part 3: Building a WebSite in Rust Using Rocket and Yew](https://editor.theadventuresofaliceandbob.com/5R7vNmjPRVmCdmStiycFUw)
