@@ -29,6 +29,9 @@ Bullet proof still linear time verification.
 Constant time implementations to prevent timing attacks.
 
 
+In 2017, Bünz, Bootle, Boneh, Poelstra, Wuille, and Maxwell published Bulletproofs, which dramatically improves proof performance both in terms of proof size and verification time. In addition, it allows for proving a much wider class of statements than just range proofs.
+
+
 ## Trusted Setups 
 bad
 
