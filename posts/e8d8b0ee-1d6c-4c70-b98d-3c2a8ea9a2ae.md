@@ -13,4 +13,6 @@ Still use Pedersen commitments which are discrete log based.
 
 1. Signature is Correct 
 2. Inputs are unspent 
-3. The sum of the outputs 
+3. The sum of the inputs are equal to the sum of the outputs plus the fees
+
+If 
