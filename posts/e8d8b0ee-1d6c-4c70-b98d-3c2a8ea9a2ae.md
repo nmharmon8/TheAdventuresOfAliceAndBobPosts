@@ -15,5 +15,6 @@ Still use Pedersen commitments which are discrete log based.
 2. Inputs are unspent 
 3. The sum of the inputs are equal to the sum of the outputs plus the fees
 
-On the third point you care that both the inputs are positive. Otherwise the sum adding up is meaningless. 
+On the third point you care that both the inputs are positive. Otherwise the sum adding up is meaningless. Range Proof. 
+
 
