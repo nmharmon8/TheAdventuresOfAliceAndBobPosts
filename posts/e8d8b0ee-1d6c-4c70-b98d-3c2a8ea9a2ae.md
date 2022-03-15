@@ -15,10 +15,12 @@ Still use Pedersen commitments which are discrete log based.
 2. Inputs are unspent 
 3. The sum of the inputs are equal to the sum of the outputs plus the fees
 
-On the third point you care that both the inputs are positive. Otherwise the sum adding up is meaningless. Range Proof. 
+On the third point you care that both the inputs are positive. Otherwise the sum adding up is meaningless. Range Proof.
+
+Non-Interactiv
 
 
-I belieive that Pedersen commitment is the name of the encryption sceam for confidential transactions, for which bullet proofs are just a part of the verification.
+I believe that Pedersen commitment is the name of the encryption scheme for confidential transactions, for which bullet proofs are just a part of the verification.
 
 Types of range proofs: SNARKs (Trusted Setup), CT Range proof (Large proof size), and Bullet proof (Log size).
 
