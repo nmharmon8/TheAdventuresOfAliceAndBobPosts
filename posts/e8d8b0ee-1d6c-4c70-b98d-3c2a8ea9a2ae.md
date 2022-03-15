@@ -18,7 +18,7 @@ Still use Pedersen commitments which are discrete log based.
 On the third point you care that both the inputs are positive. Otherwise the sum adding up is meaningless. Range Proof. 
 
 
-Types of range proofs: Sn
+Types of range proofs: SNARKs (Trusted Setup), CT Range proof (Large proof size), and Bullet proof (Log size).
 
 ## Trusted Setups 
 bad
