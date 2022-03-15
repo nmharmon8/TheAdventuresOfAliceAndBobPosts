@@ -17,7 +17,7 @@ Still use Pedersen commitments which are discrete log based.
 
 On the third point you care that both the inputs are positive. Otherwise the sum adding up is meaningless. Range Proof.
 
-Non-Interactiv
+Non-Interactive Zero Knowledge Proof of Knowledge (NIZK). At any point in the futuer someone can verifiy the 
 
 
 I believe that Pedersen commitment is the name of the encryption scheme for confidential transactions, for which bullet proofs are just a part of the verification.
