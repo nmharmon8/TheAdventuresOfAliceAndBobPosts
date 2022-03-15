@@ -24,4 +24,4 @@ Types of range proofs: SNARKs (Trusted Setup), CT Range proof (Large proof size)
 bad
 
 
-
+https://www.youtube.com/watch?v=sgruTaH_w1s
