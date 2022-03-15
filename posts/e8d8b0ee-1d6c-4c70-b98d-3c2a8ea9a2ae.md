@@ -22,7 +22,7 @@ Non-Interactive Zero Knowledge Proof of Knowledge (NIZK). At any point in the fu
 
 I believe that Pedersen commitment is the name of the encryption scheme for confidential transactions, for which bullet proofs are just a part of the verification.
 
-Types of range proofs: SNARKs (Trusted Setup), CT Range proof (Large proof size), and Bullet proof (Log size).
+Types of range proofs: SNARKs (Trusted Setup), CT Range proof (Large proof size), and Bullet proof (Log size, only discrete log assumption).
 
 Bullet proof still linear time verification. 
 
