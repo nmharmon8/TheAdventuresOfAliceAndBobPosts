@@ -7,4 +7,4 @@ bullet proofs don't hide who is paying who. It would allow you to encrypted the 
 
 What do you need to verify for a transaction to be valid.
 
-Still use pedersen commit
+Still use Pedersen commitments which are discrete log based.
