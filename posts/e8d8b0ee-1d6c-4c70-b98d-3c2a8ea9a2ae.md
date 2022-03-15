@@ -18,6 +18,8 @@ Still use Pedersen commitments which are discrete log based.
 On the third point you care that both the inputs are positive. Otherwise the sum adding up is meaningless. Range Proof. 
 
 
+I belieive that Pedersen commitment is the name of the encryption sceam for confidential transactions, for which bullet proofs are just a part of the verification.
+
 Types of range proofs: SNARKs (Trusted Setup), CT Range proof (Large proof size), and Bullet proof (Log size).
 
 Bullet proof still linear time verification. 
