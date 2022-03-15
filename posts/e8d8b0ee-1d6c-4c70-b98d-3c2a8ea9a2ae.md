@@ -22,7 +22,7 @@ Types of range proofs: SNARKs (Trusted Setup), CT Range proof (Large proof size)
 
 Bullet proof still linear time verification. 
 
-
+Constant time implementations to prevent timing attacks.
 
 
 ## Trusted Setups 
