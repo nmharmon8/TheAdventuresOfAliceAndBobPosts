@@ -20,7 +20,9 @@ On the third point you care that both the inputs are positive. Otherwise the sum
 
 Types of range proofs: SNARKs (Trusted Setup), CT Range proof (Large proof size), and Bullet proof (Log size).
 
-Bullet proof still linear ti
+Bullet proof still linear time verification. 
+
+
 
 ## Trusted Setups 
 bad
