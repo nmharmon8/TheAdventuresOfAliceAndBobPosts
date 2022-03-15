@@ -31,3 +31,6 @@ bad
 Verifiable Shuffle, without trusted setup
 
 https://www.youtube.com/watch?v=sgruTaH_w1s
+
+
+This would break all bitcoin mining asics, as they would not be able to verifiy the transactions?  
