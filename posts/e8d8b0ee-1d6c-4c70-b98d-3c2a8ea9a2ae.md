@@ -24,8 +24,10 @@ Bullet proof still linear time verification.
 
 
 
+
 ## Trusted Setups 
 bad
 
+Verifiable Shuffle, without trusted setup
 
 https://www.youtube.com/watch?v=sgruTaH_w1s
