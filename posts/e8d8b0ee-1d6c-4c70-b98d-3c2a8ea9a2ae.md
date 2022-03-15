@@ -18,3 +18,8 @@ Still use Pedersen commitments which are discrete log based.
 On the third point you care that both the inputs are positive. Otherwise the sum adding up is meaningless. Range Proof. 
 
 
+## Trusted Setups 
+bad
+
+
+
