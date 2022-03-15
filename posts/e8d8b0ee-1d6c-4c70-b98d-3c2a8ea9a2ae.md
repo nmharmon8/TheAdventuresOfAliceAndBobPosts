@@ -1,4 +1,4 @@
-# Zero Knowledge Proofs
+# Bulletproofs
 
-## Pedersen Commitments
+
 
